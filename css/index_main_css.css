@@ -1,0 +1,31 @@
+html{
+    font-size: 30p;
+    margin: 1px;
+}
+body {
+    background-image: url(https://abrakadabra.fun/uploads/posts/2022-02/thumbs/1645977303_9-abrakadabra-fun-p-shkolnii-fon-s-doskoi-10.jpg);
+    background-position: center;
+}
+* {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+#zvonok{
+    color: brown;
+    margin-left: 780px;
+    font-size: 50px;
+     background: linear-gradient(to right, black, green, yellow, #e031cb, blue, red, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}  
+p{
+    margin-left: 790px;
+    font-size: 28px;
+    background: linear-gradient(to right, purple, red, yellow, #e031cb, blue, indigo, violet);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#givka{
+    margin-left: 620px;
+}
